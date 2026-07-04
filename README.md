@@ -1,6 +1,8 @@
 # HumanLoopBatchEngine
 Human-AI Collaborative Batch Processing Framework
+
 "Review-Generate Separation" Pattern
+
 You've described a highly efficient collaboration model: "Humans define the rules, AI produces the output; Humans review the sample, AI mass-produces the rest." We can abstract this into a clear working framework called the "Review-Generate Separation: Human-AI Collaborative Batch Processing Framework."
 
 In this framework, the division of labor between humans and large language models is crystal clear:
