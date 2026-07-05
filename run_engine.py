@@ -1,14 +1,6 @@
-
-In One Sentence
-You set the standards and review the sample; the model produces the sample and runs the batch — neither oversteps, maximizing efficiency.
-
-### 6. `run_engine.py`
-
-(Use the same core engine from before, but with placeholder API key and English comments)
-
 ```python
 """
-PromptMill — HumanLoopBatchEngine
+Catkin — HumanLoopBatchEngine
 =================================================
 Core engine implementing the "Review-Generate Separation" pattern.
 
