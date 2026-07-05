@@ -1,0 +1,29 @@
+pycache/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+Virtual environment
+venv/
+env/
+.virtualenv/
+
+IDE
+.vscode/
+.idea/
+
+Output files
+output_results.json
+output.json
+
+Secrets (IMPORTANT)
+run_engine_local.py
+license.dat
+licenses.db
+
+OS
+.DS_Store
+Thumbs.db
