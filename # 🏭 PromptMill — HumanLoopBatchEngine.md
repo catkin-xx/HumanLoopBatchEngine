@@ -1,4 +1,4 @@
-# 🏭 PromptMill — HumanLoopBatchEngine
+# 🏭 Catkin — HumanLoopBatchEngine
 
 **You set the standard and review the sample. The AI produces the sample and runs the batch. Neither oversteps — maximum efficiency.**
 
