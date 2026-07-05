@@ -8,7 +8,7 @@ import json
 from run_engine import HumanLoopBatchEngine, my_llm, TOTAL_COUNT
 
 st.set_page_config(page_title="PromptMill", layout="wide")
-st.title("🏭 PromptMill")
+st.title("🏭 Catkin")
 st.caption("You set the standard. AI produces the sample. You approve. Batch done.")
 
 if "engine" not in st.session_state:
